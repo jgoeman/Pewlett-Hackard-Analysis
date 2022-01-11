@@ -4,7 +4,7 @@
 There are two main purposes for this anlayis.
 - Update Pewlett Hackard from using Excel and VBA for records to a more robust system using SQL.
 - Prepare the company for the future by creating tables to help compile information about employees that will be retiring soon. Specifically the following items were requested in addition to other tables:
-  1. The number of retiring Employees by Title. This table shows 
+  1. The number of retiring Employees by Title. 
   2. Employees eligible for the mentorship program
 
 ## Results
